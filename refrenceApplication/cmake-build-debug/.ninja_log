@@ -1,0 +1,13 @@
+# ninja log v5
+1	1282	7330806134963712	CMakeFiles/refrenceApplication.dir/src/main.cpp.obj	d56535c03efe9d7d
+1283	4114	7330806163142068	refrenceApplication.exe	bb58177fdf798516
+0	661	7330814293294781	CMakeFiles/refrenceApplication.dir/src/main.cpp.obj	d56535c03efe9d7d
+662	1403	7330814300203339	refrenceApplication.exe	bb58177fdf798516
+1	973	7331331558989559	CMakeFiles/refrenceApplication.dir/src/main.cpp.obj	d56535c03efe9d7d
+974	1326	7331331561882538	refrenceApplication.exe	bb58177fdf798516
+1	993	7331366820354918	CMakeFiles/refrenceApplication.dir/src/main.cpp.obj	d56535c03efe9d7d
+994	1359	7331366823339914	refrenceApplication.exe	bb58177fdf798516
+0	747	7331369569361204	CMakeFiles/refrenceApplication.dir/src/main.cpp.obj	d56535c03efe9d7d
+758	1188	7331369573240242	refrenceApplication.exe	bb58177fdf798516
+0	753	7331372194043619	CMakeFiles/refrenceApplication.dir/src/main.cpp.obj	d56535c03efe9d7d
+753	1091	7331372196789005	refrenceApplication.exe	bb58177fdf798516

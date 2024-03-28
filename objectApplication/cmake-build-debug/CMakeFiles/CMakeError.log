@@ -1,0 +1,27 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/Project/C++/C-/objectApplication/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/CLion 2022.2.4/bin/ninja/win/ninja.exe cmTC_eed4e && [1/2] Building C object CMakeFiles\cmTC_eed4e.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_eed4e.exe
+FAILED: cmTC_eed4e.exe 
+cmd.exe /C "cd . && "D:\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_eed4e.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests  -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo CMakeFiles\cmTC_eed4e.dir\CMakeCCompilerABI.c.obj  /out:cmTC_eed4e.exe /implib:cmTC_eed4e.lib /pdb:cmTC_eed4e.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+FINAL LINK: command "C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo CMakeFiles\cmTC_eed4e.dir\CMakeCCompilerABI.c.obj /out:cmTC_eed4e.exe /implib:cmTC_eed4e.lib /pdb:cmTC_eed4e.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_eed4e.dir/intermediate.manifest CMakeFiles\cmTC_eed4e.dir/manifest.res" failed (exit code 1168) with the following output:
+LINK : fatal error LNK1168: cannot open cmTC_eed4e.exe for writing
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/Project/C++/C-/objectApplication/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/CLion 2022.2.4/bin/ninja/win/ninja.exe cmTC_1d2cd && [1/2] Building C object CMakeFiles\cmTC_1d2cd.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_1d2cd.exe
+FAILED: cmTC_1d2cd.exe 
+cmd.exe /C "cd . && "D:\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_1d2cd.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests  -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo CMakeFiles\cmTC_1d2cd.dir\testCCompiler.c.obj  /out:cmTC_1d2cd.exe /implib:cmTC_1d2cd.lib /pdb:cmTC_1d2cd.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+FINAL LINK: command "C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo CMakeFiles\cmTC_1d2cd.dir\testCCompiler.c.obj /out:cmTC_1d2cd.exe /implib:cmTC_1d2cd.lib /pdb:cmTC_1d2cd.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_1d2cd.dir/intermediate.manifest CMakeFiles\cmTC_1d2cd.dir/manifest.res" failed (exit code 1168) with the following output:
+LINK : fatal error LNK1168: cannot open cmTC_1d2cd.exe for writing
+ninja: build stopped: subcommand failed.
+
+
+
