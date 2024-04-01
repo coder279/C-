@@ -1,0 +1,41 @@
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: D:/Project/C++/C-/polymorphicApplication/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/CLion 2022.2.4/bin/ninja/win/ninja.exe cmTC_14aab && [1/2] Building CXX object CMakeFiles\cmTC_14aab.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_14aab.exe
+FAILED: cmTC_14aab.exe 
+cmd.exe /C "cd . && "D:\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_14aab.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests  -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo CMakeFiles\cmTC_14aab.dir\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_14aab.exe /implib:cmTC_14aab.lib /pdb:cmTC_14aab.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+FINAL LINK: command "C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo CMakeFiles\cmTC_14aab.dir\CMakeCXXCompilerABI.cpp.obj /out:cmTC_14aab.exe /implib:cmTC_14aab.lib /pdb:cmTC_14aab.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_14aab.dir/intermediate.manifest CMakeFiles\cmTC_14aab.dir/manifest.res" failed (exit code 1168) with the following output:
+LINK : fatal error LNK1168: cannot open cmTC_14aab.exe for writing
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: D:/Project/C++/C-/polymorphicApplication/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/CLion 2022.2.4/bin/ninja/win/ninja.exe cmTC_48705 && [1/2] Building CXX object CMakeFiles\cmTC_48705.dir\testCXXCompiler.cxx.obj
+[2/2] Linking CXX executable cmTC_48705.exe
+FAILED: cmTC_48705.exe 
+cmd.exe /C "cd . && "D:\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_48705.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests  -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo CMakeFiles\cmTC_48705.dir\testCXXCompiler.cxx.obj  /out:cmTC_48705.exe /implib:cmTC_48705.lib /pdb:cmTC_48705.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+FINAL LINK: command "C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo CMakeFiles\cmTC_48705.dir\testCXXCompiler.cxx.obj /out:cmTC_48705.exe /implib:cmTC_48705.lib /pdb:cmTC_48705.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_48705.dir/intermediate.manifest CMakeFiles\cmTC_48705.dir/manifest.res" failed (exit code 1168) with the following output:
+LINK : fatal error LNK1168: cannot open cmTC_48705.exe for writing
+ninja: build stopped: subcommand failed.
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: D:/Project/C++/C-/polymorphicApplication/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/CLion 2022.2.4/bin/ninja/win/ninja.exe cmTC_1dfa6 && [1/2] Building CXX object CMakeFiles\cmTC_1dfa6.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_1dfa6.exe
+FAILED: cmTC_1dfa6.exe 
+cmd.exe /C "cd . && "D:\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_1dfa6.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests  -- C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo CMakeFiles\cmTC_1dfa6.dir\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_1dfa6.exe /implib:cmTC_1dfa6.lib /pdb:cmTC_1dfa6.pdb /version:0.0 /machine:X86  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+FINAL LINK: command "C:\PROGRA~1\MIB055~1\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo CMakeFiles\cmTC_1dfa6.dir\CMakeCXXCompilerABI.cpp.obj /out:cmTC_1dfa6.exe /implib:cmTC_1dfa6.lib /pdb:cmTC_1dfa6.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_1dfa6.dir/intermediate.manifest CMakeFiles\cmTC_1dfa6.dir/manifest.res" failed (exit code 1168) with the following output:
+LINK : fatal error LNK1168: cannot open cmTC_1dfa6.exe for writing
+ninja: build stopped: subcommand failed.
+
+
+
+

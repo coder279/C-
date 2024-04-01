@@ -1,0 +1,11 @@
+# ninja log v5
+1	481	7335720092773322	CMakeFiles/polymorphicApplication.dir/src/main.cpp.obj	530bf3ab005dd8da
+483	3231	7335720120154412	polymorphicApplication.exe	a3431eb1f50d2610
+1	696	7335724761460146	CMakeFiles/polymorphicApplication.dir/src/main.cpp.obj	530bf3ab005dd8da
+697	971	7335724763678966	polymorphicApplication.exe	a3431eb1f50d2610
+1	631	7335729422008604	CMakeFiles/polymorphicApplication.dir/src/main.cpp.obj	530bf3ab005dd8da
+631	1039	7335729425548943	polymorphicApplication.exe	a3431eb1f50d2610
+1	621	7335732397354960	CMakeFiles/polymorphicApplication.dir/src/main.cpp.obj	530bf3ab005dd8da
+621	905	7335732399660681	polymorphicApplication.exe	a3431eb1f50d2610
+0	928	7335745667537431	CMakeFiles/polymorphicApplication.dir/src/main.cpp.obj	530bf3ab005dd8da
+940	1220	7335745669953771	polymorphicApplication.exe	a3431eb1f50d2610
