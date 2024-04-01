@@ -1,0 +1,11 @@
+# ninja log v5
+0	598	7335857607874880	CMakeFiles/templateApplication.dir/src/main.cpp.obj	fe580958b05cca6d
+599	3061	7335857632368151	templateApplication.exe	2327b3e52f260b2b
+0	621	7335861517178019	CMakeFiles/templateApplication.dir/src/main.cpp.obj	fe580958b05cca6d
+622	932	7335861519714277	templateApplication.exe	2327b3e52f260b2b
+0	636	7335861980761768	CMakeFiles/templateApplication.dir/src/main.cpp.obj	fe580958b05cca6d
+636	921	7335861983092390	templateApplication.exe	2327b3e52f260b2b
+1	411	7335862718721900	CMakeFiles/templateApplication.dir/src/main.cpp.obj	fe580958b05cca6d
+411	656	7335862720683704	templateApplication.exe	2327b3e52f260b2b
+1	562	7335910587529919	CMakeFiles/templateApplication.dir/src/main.cpp.obj	fe580958b05cca6d
+563	1092	7335910592395878	templateApplication.exe	2327b3e52f260b2b

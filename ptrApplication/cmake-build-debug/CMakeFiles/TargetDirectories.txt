@@ -1,0 +1,3 @@
+D:/Project/C++/C-/ptrApplication/cmake-build-debug/CMakeFiles/ptrApplication.dir
+D:/Project/C++/C-/ptrApplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project/C++/C-/ptrApplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir

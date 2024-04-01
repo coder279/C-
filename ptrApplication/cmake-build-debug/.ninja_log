@@ -1,0 +1,7 @@
+# ninja log v5
+1	1099	7336557599113895	CMakeFiles/ptrApplication.dir/src/main.cpp.obj	f1c9655d4646fca5
+1101	4165	7336557629432566	ptrApplication.exe	d5baf6ee12b8dfea
+0	1135	7336559178136641	CMakeFiles/ptrApplication.dir/src/main.cpp.obj	f1c9655d4646fca5
+1136	1601	7336559181935399	ptrApplication.exe	d5baf6ee12b8dfea
+0	1032	7336561743441877	CMakeFiles/ptrApplication.dir/src/main.cpp.obj	f1c9655d4646fca5
+1033	6766	7336561799798349	ptrApplication.exe	d5baf6ee12b8dfea
